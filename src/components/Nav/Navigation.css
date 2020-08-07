@@ -36,5 +36,5 @@
 .main-header a:hover,
 .main-header a:active,
 .main-header a.active {
-  color: #560061;
+  border-bottom: 2px white solid;
 }
